@@ -33,8 +33,8 @@ apt install python-pip mpv
 pip install rich
 pip install rich-cli
 gem install lolcat
-git clone https://github.com/Bayu12345677/OTP_TERROR.git
-cd OTP_TERROR
+git clone https://github.com/Bayu12345677/OTP_TeRoRV2.git
+cd OTP_TeRoRV2
 make setup
 make Run
 ```
