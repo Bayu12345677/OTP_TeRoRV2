@@ -10,4 +10,4 @@ setup:
 	chmod 700 app.out
 	@echo "[+] paket berhasil di setup"
 Run:
-	./app.out
+	@python app.sh.py
