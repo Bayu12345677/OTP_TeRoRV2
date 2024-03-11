@@ -1,7 +1,7 @@
 setup:
 	apt-get update
 	apt-get upgrade
-	apt-get install ruby python ossp-uuid figlet toilet
+	apt-get install ruby bc python ossp-uuid figlet toilet
 	apt-get install curl xh ncurses-utils clang
 	pip install requests
 	pip install httpie
