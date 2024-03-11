@@ -1,4 +1,4 @@
-<h2 align="center">Glass Spamming</h2>
+<h2 align="center">OTP TeRROR</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
   <img src="https://img.shields.io/static/v1?label=Framework&message=Bash+ID&color=green&logo=reddit"><br>
