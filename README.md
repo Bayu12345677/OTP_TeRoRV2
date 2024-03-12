@@ -38,6 +38,14 @@ cd OTP_TeRoRV2
 make setup
 make Run
 ```
+
+- `Update`
+```bash
+git pull
+make setup
+make Run
+```
+
 </details>
 
 - List otp
